@@ -1,7 +1,7 @@
-- Hi, I’m @amith-rs
-- I’m interested in solving problems, business analytics, economics & finance
-- I’m currently studying a masters degree in Business Analytics and using Python, SQL, R
-- I’m looking to collaborate on projects regarding econometrics, data science, and machine learning
+- Hi, I’m @amith-rs !
+- I’m interested in solving problems, business analytics, economics & finance.
+- I’m currently completing a master's degree in Business Analytics, the languages I use are Python, SQL & R
+- This space will primarily be used at the moment to upload the various projects I complete in my studies. 
 
 
 <!---
